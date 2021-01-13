@@ -57,7 +57,7 @@ setup(
         'py',
         'pytest',
         'pyyaml',
-        'requests==2.18.4',
+        'requests==2.20.0',
         'retrying',
         'schema',
         'keyring==9.1',  # FIXME: pin keyring to prevent dbus dep
