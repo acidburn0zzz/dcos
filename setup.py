@@ -33,7 +33,7 @@ setup(
         'release.storage',
         'ssh'],
     install_requires=[
-        'aiohttp==0.22.5',
+        'aiohttp==3.8.5',
         'analytics-python',
         'coloredlogs',
         'Flask',
